@@ -35,7 +35,7 @@ An app fully built with React will usually only have one `render` call with its 
 
 #### Parameters {/*parameters*/}
 
-* `reactNode`: A *React node* that you want to display. This will usually be a piece of JSX like `<App />`, but you can also pass a React elmenent constructed with [`createElement()`](/TODO), a string, a number, `null`, or `undefined`. 
+* `reactNode`: A *React node* that you want to display. This will usually be a piece of JSX like `<App />`, but you can also pass a React element constructed with [`createElement()`](/TODO), a string, a number, `null`, or `undefined`. 
 
 * `container`: A [DOM element](https://developer.mozilla.org/en-US/docs/Web/API/Element). React will change its content to the rendering output of the first argument.
 
